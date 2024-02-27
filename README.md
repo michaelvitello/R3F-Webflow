@@ -1,4 +1,7 @@
-# R3F - Webflow boilerplate
+# R3F - Webflow
+
+ `yarn install`
+ `yarn run dev`
 
 Build R3F to plug into Webflow
 Head tag for webflow project (can be removed on Production build)
