@@ -5,7 +5,7 @@
 
 ### R3F to Webflow
 
-Build R3F to plug into Webflow
+Build R3F to plug into Webflow <br>
 Head tag for webflow project (can be removed on Production build)
 
 ```html
@@ -19,7 +19,7 @@ Head tag for webflow project (can be removed on Production build)
 ```
 
 To add this at the end of the body tag (for development)
-Verify your own localhost:xxxx URL
+Verify your own localhost:xxxx URL <br>
 Change to production URL & update the _headers file in the public folder when ready to deploy (to avoid CORS ERROR)
 
 ```html
